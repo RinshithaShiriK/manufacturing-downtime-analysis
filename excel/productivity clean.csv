@@ -1,0 +1,32 @@
+﻿Date,Product,Batch,Operator,Start Time,End Time,Production Duration,Flavor,Size,Min Batch Time,Total Downtime (Minutes),Excess Time,Production Efficiency (%),Shifts
+29-08-2024,OR-600,422111,Mac,11:50:00,14:05:00,135,Orange,600 ml,60,75,0,44.44,Morning Shift
+29-08-2024,LE-600,422112,Mac,14:05:00,15:45:00,100,Lemon lime,600 ml,60,40,0,60,Morning Shift
+29-08-2024,LE-600,422113,Mac,15:45:00,17:35:00,110,Lemon lime,600 ml,60,50,0,54.55,Morning Shift
+29-08-2024,LE-600,422114,Mac,17:35:00,19:15:00,100,Lemon lime,600 ml,60,40,0,60,Evening Shift
+29-08-2024,LE-600,422115,Charlie,19:15:00,20:39:00,84,Lemon lime,600 ml,60,24,0,71.43,Evening Shift
+29-08-2024,LE-600,422116,Charlie,20:39:00,21:39:00,60,Lemon lime,600 ml,60,0,0,100,Evening Shift
+29-08-2024,LE-600,422117,Charlie,21:39:00,22:54:00,75,Lemon lime,600 ml,60,15,0,80,Evening Shift
+30-08-2024,CO-600,422118,Dee,04:05:00,06:05:00,120,Cola,600 ml,60,60,0,50,Night Shift
+30-08-2024,CO-600,422119,Dee,06:05:00,07:30:00,85,Cola,600 ml,60,25,0,70.59,Night Shift
+30-08-2024,CO-600,422120,Dee,07:30:00,09:22:00,112,Cola,600 ml,60,52,0,53.57,Night Shift
+30-08-2024,CO-600,422121,Dennis,09:22:00,10:37:00,75,Cola,600 ml,60,15,0,80,Morning Shift
+30-08-2024,CO-600,422122,Dennis,10:37:00,12:02:00,85,Cola,600 ml,60,25,0,70.59,Morning Shift
+30-08-2024,CO-600,422123,Dennis,12:02:00,14:15:00,133,Cola,600 ml,60,73,0,45.11,Morning Shift
+30-08-2024,CO-600,422124,Dennis,14:15:00,15:55:00,100,Cola,600 ml,60,40,0,60,Morning Shift
+30-08-2024,CO-600,422125,Charlie,15:55:00,17:15:00,80,Cola,600 ml,60,20,0,75,Morning Shift
+30-08-2024,CO-600,422126,Charlie,17:15:00,18:59:00,104,Cola,600 ml,60,44,0,57.69,Evening Shift
+30-08-2024,CO-600,422127,Charlie,18:59:00,20:22:00,83,Cola,600 ml,60,23,0,72.29,Evening Shift
+30-08-2024,CO-600,422128,Charlie,20:22:00,22:14:00,112,Cola,600 ml,60,52,0,53.57,Evening Shift
+30-08-2024,CO-600,422129,Charlie,22:14:00,23:29:00,75,Cola,600 ml,60,15,0,80,Evening Shift
+31-08-2024,CO-600,422130,Dee,07:45:00,09:05:00,80,Cola,600 ml,60,20,0,75,Night Shift
+31-08-2024,CO-600,422131,Dee,09:05:00,10:35:00,90,Cola,600 ml,60,30,0,66.67,Morning Shift
+31-08-2024,CO-600,422132,Dee,10:35:00,11:35:00,60,Cola,600 ml,60,0,0,100,Morning Shift
+31-08-2024,DC-600,422133,Dee,11:35:00,12:55:00,80,Diet Cola,600 ml,60,20,0,75,Morning Shift
+31-08-2024,DC-600,422134,Mac,12:55:00,14:45:00,110,Diet Cola,600 ml,60,50,0,54.55,Morning Shift
+31-08-2024,DC-600,422135,Mac,14:45:00,16:30:00,105,Diet Cola,600 ml,60,45,0,57.14,Morning Shift
+31-08-2024,DC-600,422136,Mac,16:30:00,17:30:00,60,Diet Cola,600 ml,60,0,0,100,Evening Shift
+02-09-2024,CO-2L,422144,Dennis,12:18:00,14:50:00,152,Cola,2 L,98,54,0,64.47,Morning Shift
+02-09-2024,CO-2L,422145,Charlie,14:50:00,16:50:00,120,Cola,2 L,98,22,0,81.67,Morning Shift
+02-09-2024,CO-2L,422146,Charlie,16:50:00,19:30:00,160,Cola,2 L,98,62,0,61.25,Evening Shift
+02-09-2024,CO-2L,422147,Charlie,19:30:00,22:55:00,205,Cola,2 L,98,107,0,47.8,Evening Shift
+03-09-2024,CO-2L,422148,Mac,22:55:00,1900-01-01 01:05:00,130,Cola,2 L,98,32,0,75.38,Evening Shift

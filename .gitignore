@@ -1,0 +1,40 @@
+# Ignore presentation and report folders
+presentation/
+report/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Python distribution/build files
+build/
+dist/
+*.egg-info/
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Large/archive files
+*.zip
+*.rar
+*.7z
+
+# Excel temporary files
+~$*.xlsx
+~$*.xls
